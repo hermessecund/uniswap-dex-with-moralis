@@ -1,5 +1,5 @@
-const serverUrl = "https://hbc5m1pibhdo.usemoralis.com:2053/server"; //Server url from moralis.io
-const appId = "fW0wg44rey4RBD4dkMhGlde8bwbjS0sy5K790VKc"; // Application id from moralis.io
+const serverUrl = "https://hdpxpzjmlpx6.usemoralis.com:2053/server"; //Server url from moralis.io
+const appId = "t07EZ6BykNBSZJ9JX4teirTdZLXJuZynTSePicOq"; // Application id from moralis.io
 
 // Global variables
 let currentUser;
