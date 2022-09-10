@@ -1,6 +1,6 @@
-const serverUrl = "https://hdpxpzjmlpx6.usemoralis.com:2053/server"; //Server url from moralis.io
-const appId = "t07EZ6BykNBSZJ9JX4teirTdZLXJuZynTSePicOq"; // Application id from moralis.io
-
+const serverUrl = "https://oorl0i8i8dfx.usemoralis.com:2053/server";
+const appId = "FDYXWzkaF00wMOCfoxwmLLAyfeiZc0NXPXIEosUJ";
+     
 // Global variables
 let currentUser;
 let trade = {};
